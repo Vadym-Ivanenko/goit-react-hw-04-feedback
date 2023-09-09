@@ -1,4 +1,5 @@
 import { List, Btn } from './FeedbackOptions.styled';
+
 export const FeedbackOptions = ({ options, feedback }) => {
   return (
     <List>
